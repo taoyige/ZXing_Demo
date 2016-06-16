@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\AndroidProject\\Android_QRCoder\\android\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "G:\\AndroidProject\\Android_QRCoder\\android\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\Android_QRCoder\\android\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "G:\\AndroidProject\\Android_QRCoder\\android\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\Android_QRCoder\\android\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "G:\\AndroidProject\\Android_QRCoder\\android\\src\\main\\res\\menu\\history.xml"
+    }
+]

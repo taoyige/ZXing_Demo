@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\AndroidProject\\Android_QRCoder\\android\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
+        "source": "G:\\AndroidProject\\Android_QRCoder\\android\\src\\main\\res\\layout-land\\share.xml"
+    },
+    {
+        "merged": "G:\\AndroidProject\\Android_QRCoder\\android\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
+        "source": "G:\\AndroidProject\\Android_QRCoder\\android\\src\\main\\res\\layout-land\\encode.xml"
+    }
+]
